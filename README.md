@@ -20,6 +20,7 @@
 
 ### Src :
 - https://www.youtube.com/watch?v=Qpso16P60UA
+- [Les vidéos sur React](https://dev.tube/tag/react) recensées sur DevTube
 
 ### Additionnal informations :
 - https://hackernoon.com/the-2018-react-js-roadmap-4d0a43814c02
