@@ -21,6 +21,7 @@
 ### Src :
 - https://www.youtube.com/watch?v=Qpso16P60UA
 - [Les vidéos sur React](https://dev.tube/tag/react) recensées sur DevTube
+  - [React Fundamentals - Full Courses for beginners](https://youtu.be/6Ied4aZxUzc)
 
 ### Additionnal informations :
 - https://hackernoon.com/the-2018-react-js-roadmap-4d0a43814c02
