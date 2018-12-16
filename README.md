@@ -3,12 +3,12 @@
 ## Brainstorming
 
 ### Concepts :
-- Application musst be MobileFirst
+- Application must be MobileFirst
 - User can choose themes
-- User have to be alert
-- Application musst use Cookies to save datas https://stackoverflow.com/questions/4225030/jquery-save-json-data-object-in-cookie
-- Script have to be written in Object-oriented JavaScript
-- Script have to be written with JQuery library
+- User has to be alert
+- Application must use Cookies to save datas https://stackoverflow.com/questions/4225030/jquery-save-json-data-object-in-cookie
+- Script has to be written in Object-oriented JavaScript
+- Script has to be written with JQuery library
 
 
 ### Ideas :
